@@ -1,0 +1,210 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="layerName_parcele" Type="System.String" Scope="User">
+      <Value Profile="(Default)">parcele</Value>
+    </Setting>
+    <Setting Name="layerName_table" Type="System.String" Scope="User">
+      <Value Profile="(Default)">table</Value>
+    </Setting>
+    <Setting Name="layerName_ProcembeniRazredi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">procembeni razredi</Value>
+    </Setting>
+    <Setting Name="layerName_nadelaSmer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tacke za nadelu</Value>
+    </Setting>
+    <Setting Name="layerName_Ulice" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Linije ulice</Value>
+    </Setting>
+    <Setting Name="layerName_centar" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CentriMoci</Value>
+    </Setting>
+    <Setting Name="parcele_fieldName_brParcele" Type="System.String" Scope="User">
+      <Value Profile="(Default)">brParcele</Value>
+    </Setting>
+    <Setting Name="parcele_fieldName_rastojanjeCentarMoci" Type="System.String" Scope="User">
+      <Value Profile="(Default)">rastojanjeCM</Value>
+    </Setting>
+    <Setting Name="parcele_fieldName_katPovrsina" Type="System.String" Scope="User">
+      <Value Profile="(Default)">katPovrsina</Value>
+    </Setting>
+    <Setting Name="parcele_fieldName_Vlasnik" Type="System.String" Scope="User">
+      <Value Profile="(Default)">idVlasnika</Value>
+    </Setting>
+    <Setting Name="layerName_ekonomskaDvorista" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ekonomska_dvorista</Value>
+    </Setting>
+    <Setting Name="funkcijaRaspodele" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.25*P+0.25*R</Value>
+    </Setting>
+    <Setting Name="maxP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-10000000</Value>
+    </Setting>
+    <Setting Name="maxR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-10000000</Value>
+    </Setting>
+    <Setting Name="maxZ" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-100000000</Value>
+    </Setting>
+    <Setting Name="koeficijentUmanjenja" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.95</Value>
+    </Setting>
+    <Setting Name="mysqlConnString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">User ID=root;Password=azra220;Host=localhost;Port=3306;Database=adorjan;</Value>
+    </Setting>
+    <Setting Name="nadela_brInteracija" Type="System.String" Scope="User">
+      <Value Profile="(Default)">75</Value>
+    </Setting>
+    <Setting Name="nadela_duzina" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.5</Value>
+    </Setting>
+    <Setting Name="layerName_ParceleNadela" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DKP_Nadela</Value>
+    </Setting>
+    <Setting Name="layerName_pointTableObelezavanje" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PntTableObelezavanje</Value>
+    </Setting>
+    <Setting Name="layerName_podelaNaListove" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Podela2500</Value>
+    </Setting>
+    <Setting Name="layerName_poligonskeTacke" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Poligonske</Value>
+    </Setting>
+    <Setting Name="poligonske_brojOdmeranjaOpis" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="poligonske_sirinaBaferZone" Type="System.String" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="tahimetrija_sirinaBaferZone" Type="System.String" Scope="User">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+    <Setting Name="tahimetrija_razmakIzmeduRedova" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="openFiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)">""</Value>
+    </Setting>
+    <Setting Name="komponentShowTable" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="GPSMerenje_datumPocetka" Type="System.String" Scope="User">
+      <Value Profile="(Default)">23/12/2013</Value>
+    </Setting>
+    <Setting Name="GPSMerenje_vremePocetka" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8:00</Value>
+    </Setting>
+    <Setting Name="GPSMerenje_brzinaHoda" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.85</Value>
+    </Setting>
+    <Setting Name="GPSMerenje_zadrzavanjeNaTacki" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="GPSMerenje_duzinaRada" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="GPSMerenje_preskacemPraznik" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="GPSMerenje_preskacemVikend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="GPSMerenje_vremePreseljenjeBaze" Type="System.String" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="zaokruzivanjeBrojDecMesta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="drawing_streetHouseNumbers" Type="System.String" Scope="User">
+      <Value Profile="(Default)">drawing</Value>
+    </Setting>
+    <Setting Name="id_field_municipality" Type="System.String" Scope="User">
+      <Value Profile="(Default)">naselje</Value>
+    </Setting>
+    <Setting Name="id_field_streetNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">broj</Value>
+    </Setting>
+    <Setting Name="id_field_streetLetter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">podbroj</Value>
+    </Setting>
+    <Setting Name="id_field_streetName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ulica</Value>
+    </Setting>
+    <Setting Name="id_field_streetCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">iduliceskr</Value>
+    </Setting>
+    <Setting Name="resenja_stampaProcembeniRazredi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="pozivanje_nultoVreme" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="pozivanje_vremePosedovni" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="pozivanje_vremeBrojParcela" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.5</Value>
+    </Setting>
+    <Setting Name="pozivanje_pocetakDatum" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="pozivanje_smena1Pocetak" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8:00</Value>
+    </Setting>
+    <Setting Name="pozivanje_smena1Kraj" Type="System.String" Scope="User">
+      <Value Profile="(Default)">13</Value>
+    </Setting>
+    <Setting Name="pozivanje_smena2Pocetak" Type="System.String" Scope="User">
+      <Value Profile="(Default)">17:15</Value>
+    </Setting>
+    <Setting Name="pozivanje_smena2Kraj" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="pozivanje_kriterijum_zeljeUcesnika" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="pozivanje_kriterijum_izbaciGradevinski" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="pozivanje_MaticnoNaselje" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RADUJEVAC</Value>
+    </Setting>
+    <Setting Name="pozivanje_wordFileTemplatePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="pozivanje_stampamOdmah" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="pozivanje_stampamSpisakParcelaUPozivu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="pozivanje_vremeVlasnik" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="pozivanje_pisemSamoImenaBezVremena" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="pozivanje_idko" Type="System.String" Scope="User">
+      <Value Profile="(Default)">801500</Value>
+    </Setting>
+    <Setting Name="ogranicenje_poStranci" Type="System.String" Scope="User">
+      <Value Profile="(Default)">55</Value>
+    </Setting>
+    <Setting Name="resenja_wordFileTemplatePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="resenja_pismo" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="resenje_koeficijent0" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="resenje_vjedinice_din" Type="System.String" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="pozivanje_kriterijumIzbaciIndustrijsku" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
